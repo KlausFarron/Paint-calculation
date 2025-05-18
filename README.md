@@ -1,2 +1,2 @@
 # Paint-calculation
-Simple program to calculate how much gallons of paint you need to paint a square feet
+A simple program to calculate how many cans of paint you need to paint a wall based on square feet.
